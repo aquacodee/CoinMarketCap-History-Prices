@@ -1,13 +1,13 @@
-# CoinMarketCap-Historical-Prices
+# CoinMarketCap-History-Prices
 This script scrapes data from the [historical data](https://coinmarketcap.com/currencies/ethereum/historical-data/) tab on coinmarketcap.com
 
 ## Install & Run
 
 #### Download and install   
 ```
-$ git clone https://github.com/aquacodee/CoinMarketCap-Historical-Prices.git
-$ cd CoinMarketCap-Historical-Prices
-$ pip3 install -r requirements.txt
+$ git clone https://github.com/aquacodee/CoinMarketCap-History-Prices.git
+$ cd CoinMarketCap-History-Prices
+$ pip install -r requirements.txt
 $ python install_locally.py 
 ```
 
